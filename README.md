@@ -5,8 +5,8 @@ I'm a husband and father of four, currently working as a security consultant. I'
 
 ## 🔭 Current Projects
 I'm working on a couple of tools to help with pentest reporting:
-- A tool to parse `nmap` output, consolidate hostnames by IP address, and count the total number of listening services by port across all hosts. 
-- Another tool to parse Dehashed output (breached credentials) and organize usernames, passwords, hashes, and breach information under each affected user. 
+- An appendix generator that takes in multiple nmap XML and dehashed json files and exports tables of IP-Hostname mapping, listening services, and breached credentials tables. 
+- A tool to automate some of the repetetive enumeration for every engagement (i.e., hostname enumeration and breach searching)
 
 ## ⚡️ Current Learning
-I'm currently working on getting better at Web Application Testing and Security. Hopefully more tools to follow in that space. 
+I'm currently working on getting better at Web Application Testing and Security, as well as Python development. Hopefully more tools to follow in that space. 
