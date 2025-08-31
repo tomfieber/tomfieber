@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 🤓 About Me
-Dad, husband, and retired Army veteran. I work as a security consultant and am consistently striving to be the okayest pentester I can be.
+Dad, husband, and retired Army veteran. I'm the owner and Chief Learning Officer at Eagle Rising Inforamtion Security.
 
 ## Knowledge and Skills
 
