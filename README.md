@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 🤓 About Me
-Dad, husband, and retired Army veteran. I'm the owner and Chief Learning Officer at Eagle Rising Inforamtion Security.
+Dad, husband, and retired Army veteran. I'm the owner and Chief Learning Officer at Eagle Rising Information Security.
 
 ## Knowledge and Skills
 
